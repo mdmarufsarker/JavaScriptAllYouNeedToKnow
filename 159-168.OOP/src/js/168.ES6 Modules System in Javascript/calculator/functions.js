@@ -1,0 +1,17 @@
+export const add = (a, b) => a + b;
+export const sub = (a, b) => a - b;
+export const prod = (a, b) => a * b;
+export const div = (a, b) => a / b;
+export const PI = 3.1416;
+export const E = 2.718;
+export const square = (a) => a * a;
+export const sqrt = (a) => Math.sqrt(a);
+export const pow = (a, b) => Math.pow(a, b);
+export const mod = (a, b) => a % b;
+export const log = (a) => Math.log(a);
+export const sin = (a) => Math.sin(a);
+export const cos = (a) => Math.cos(a);
+export const tan = (a) => Math.tan(a);
+export const cot = (a) => 1 / Math.tan(a);
+export const sec = (a) => 1 / Math.cos(a);
+export const cosec = (a) => 1 / Math.sin(a);
